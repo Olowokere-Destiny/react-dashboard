@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/react-dashboard/static/css/main.1024e175.css",
-    "main.js": "/react-dashboard/static/js/main.fd66bc3c.js",
+    "main.css": "/react-dashboard/static/css/main.248a41a8.css",
+    "main.js": "/react-dashboard/static/js/main.f0adfa3a.js",
+    "static/media/hairy_man.jpg": "/react-dashboard/static/media/hairy_man.e783b80fc08aa743b526.jpg",
+    "static/media/up-man.jpg": "/react-dashboard/static/media/up-man.97bdda51efaf61fc8e69.jpg",
+    "static/media/profile-bg.png": "/react-dashboard/static/media/profile-bg.a54075d3f222348b0c66.png",
+    "static/media/woman.jpg": "/react-dashboard/static/media/woman.5eb120b246b797756a74.jpg",
+    "static/media/suit-man.jpg": "/react-dashboard/static/media/suit-man.6d657a5c6d7687026fb4.jpg",
     "index.html": "/react-dashboard/index.html",
-    "main.1024e175.css.map": "/react-dashboard/static/css/main.1024e175.css.map",
-    "main.fd66bc3c.js.map": "/react-dashboard/static/js/main.fd66bc3c.js.map"
+    "main.248a41a8.css.map": "/react-dashboard/static/css/main.248a41a8.css.map",
+    "main.f0adfa3a.js.map": "/react-dashboard/static/js/main.f0adfa3a.js.map"
   },
   "entrypoints": [
-    "static/css/main.1024e175.css",
-    "static/js/main.fd66bc3c.js"
+    "static/css/main.248a41a8.css",
+    "static/js/main.f0adfa3a.js"
   ]
 }
