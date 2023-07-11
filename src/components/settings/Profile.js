@@ -1,6 +1,6 @@
 import bgImage from "../../profile-bg.png";
 import profilepic from "../../hairy_man.jpg";
-import { faMessage, faUser } from "@fortawesome/free-solid-svg-icons";
+import { faUser } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 export default function Profile() {
     const styling1 = {
