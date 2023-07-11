@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #ededed;
+    font-family: 'Montserrat', sans-serif;
+}
+
+li {
+    list-style-type: none;
+}
+
+.mobile-menu {
+    transition: all ease-in-out .5s;
+}
+
+table.big-table tr {
+    white-space: nowrap;
+}
+
+.p-pic {
+    left: 50%;
+    transform: translateX(-50%);
+  }
